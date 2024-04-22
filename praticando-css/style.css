@@ -1,0 +1,29 @@
+h1 {
+  color: blueviolet;
+}
+
+.container {
+  display: flex;
+}
+
+.flex{
+  background-color: blueviolet;
+  margin: 20px;
+  width: 100px;
+  height: 150px;
+}
+
+.flex-direction-column {
+  flex-direction: column;
+}
+
+.flex-direction-column-reverse {
+  flex-direction: column-reverse;
+}
+
+.flex-direction-row {
+  flex-direction: row;
+}
+.flex-direction-row-reverse {
+  flex-direction: row-reverse;
+}
